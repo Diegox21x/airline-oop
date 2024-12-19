@@ -12,8 +12,6 @@ public class Airline {
         this.flights = flights;
     }
 
-
-
     public String getName() {
         return name;
     }
